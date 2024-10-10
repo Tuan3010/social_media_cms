@@ -15,6 +15,7 @@ $themes: (
     textColorSoft: lightgray,
     border: #444,
   ),
+  
 );
 
 @mixin themify($themes) {
